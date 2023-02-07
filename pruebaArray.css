@@ -1,0 +1,26 @@
+
+#body{ 
+    display: flex;
+    flex-direction : row;
+    margin:1px;
+}
+
+#listaElementos{
+    background-color: aqua;
+    width: 30%;
+    min-height: 99vh;
+    float: left;
+    border: 1px black solid;
+   
+}
+
+#agrupados{
+    background-color: coral;
+    width: 69%;
+    min-height: 99vh;
+    float: right;
+    border: 1px black solid;
+
+}
+
+
